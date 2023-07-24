@@ -147,7 +147,7 @@ Example of encoded molecule for training:
 
 
 ## TRAINING
-
+The dataset was divided into training set (70%), validation set (20%) and test set (10%).
 The network consists of five convolutional layers with
 modifiable embedding size. The parameters are edge indexes which tells about geometry of molecule and edge attributes which has information about properites of the bonds and atoms.
 
